@@ -22,3 +22,11 @@ plain | black | white | purple
 
 <p><a href="clear-glass/screenshot-clear.png" target="_blank"><img src="clear-glass/screenshot-clear.200px.png" alt="screenshot: clear glass" title="screenshot: clear glass"></a></p>
 <p><a href="clear-glass/screenshot.png" target="_blank"><img src="clear-glass/screenshot.200px.png" alt="screenshot: all colors" title="screenshot: all colors"></a></p>
+
+## Hopper direction
+
+The inside of a hopper indicates the direction of its output. E.g. a hopper pointed upward: 
+![hopper (pointed upward), inside](hopper-direction/assets/minecraft/textures/blocks/hopper_inside_side.png "hopper, pointed upward, inside")
+
+<p><a href="hopper-direction/screenshot.png" target="_blank"><img src="hopper-direction/screenshot.200px.png" alt="screenshot: all directions" title="screenshot: all directions"></a></p>
+
