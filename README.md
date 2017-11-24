@@ -11,3 +11,11 @@ top: ![observer: top](observer/assets/minecraft/textures/blocks/observer_top.png
 ## Sticky Piston block
 
 side: ![sticky piston: side](sticky-piston/assets/minecraft/textures/blocks/piston_side_sticky.png)
+
+## Clear glass
+
+Removed glass streaks:
+
+plain | black | white | purple
+------|-------|-------|-------
+![glass](clear-glass/assets/minecraft/textures/blocks/glass.png) | ![black glass](clear-glass/assets/minecraft/textures/blocks/glass_black.png) | ![white glass](clear-glass/assets/minecraft/textures/blocks/glass_white.png) | ![purple glass](clear-glass/assets/minecraft/textures/blocks/glass_purple.png)
