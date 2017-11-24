@@ -19,3 +19,6 @@ Removed glass streaks:
 plain | black | white | purple
 ------|-------|-------|-------
 ![glass](clear-glass/assets/minecraft/textures/blocks/glass.png) | ![black glass](clear-glass/assets/minecraft/textures/blocks/glass_black.png) | ![white glass](clear-glass/assets/minecraft/textures/blocks/glass_white.png) | ![purple glass](clear-glass/assets/minecraft/textures/blocks/glass_purple.png)
+
+<p><a href="clear-glass/screenshot-clear.png" target="_blank"><img src="clear-glass/screenshot-clear.200px.png" alt="screenshot: clear glass" title="screenshot: clear glass"></a></p>
+<p><a href="clear-glass/screenshot.png" target="_blank"><img src="clear-glass/screenshot.200px.png" alt="screenshot: all colors" title="screenshot: all colors"></a></p>
