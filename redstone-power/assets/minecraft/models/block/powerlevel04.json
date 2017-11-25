@@ -1,0 +1,5 @@
+{
+  "parent": "block/scouter", "textures": {
+    "power": "blocks/powerlevel04"
+  }
+}
