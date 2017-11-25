@@ -26,7 +26,7 @@ plain | black | white | purple
 ## Hopper direction
 
 The inside of a hopper indicates the direction of its output. E.g. a hopper pointed upward: 
-![hopper (pointed upward), inside](hopper-direction/assets/minecraft/textures/blocks/hopper_inside_side.png "hopper, pointed upward, inside")
+![hopper (pointed forward), inside](hopper-direction/assets/minecraft/textures/blocks/hopper_inside_side.png "hopper, pointed forward, inside")
 
 <p><a href="hopper-direction/screenshot.png" target="_blank"><img src="hopper-direction/screenshot.200px.png" alt="screenshot: all directions" title="screenshot: all directions"></a></p>
 
@@ -37,3 +37,7 @@ Redstone lines are labeled with their current strength:
 <p><a href="redstone-power/screenshot.png" target="_blank"><img src="redstone-power/screenshot.200px.png" alt="screenshot: all power levels" title="screenshot: all power levels"></a></p>
 
 > Redstone resource pack above is [CodeCrafted](codecrafted.net).
+
+## ![](rainbow-xp/iteration.gif) Rainbow experience bar
+
+![full experience bar](rainbow-xp/xp-bar.png "full experience bar")
