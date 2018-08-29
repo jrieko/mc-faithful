@@ -1,4 +1,4 @@
-Additions & changes to the [Faithful](minecraft.curseforge.com/projects/faithful-32x) resource pack for Minecraft.
+Additions & changes to the [Faithful](minecraft.curseforge.com/projects/faithful-32x) resource pack for Minecraft 1.13.
 
 ## Observer block
 
