@@ -36,7 +36,7 @@ Redstone lines are labeled with their current strength:
 
 <p><a href="redstone-power/screenshot.png" target="_blank"><img src="redstone-power/screenshot.200px.png" alt="screenshot: all power levels" title="screenshot: all power levels"></a></p>
 
-> Redstone resource pack above is [CodeCrafted](http://codecrafted.net).
+> Redstone resource pack above is [CodeCrafted](https://www.planetminecraft.com/texture_pack/updateed-codecrafted-redstone-pack-1-13/).
 
 ## ![](rainbow-xp/iteration.gif) Rainbow experience bar
 
