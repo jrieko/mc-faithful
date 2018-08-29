@@ -2,11 +2,11 @@ Additions & changes to the [Faithful](minecraft.curseforge.com/projects/faithful
 
 ## Observer block
 
-front, powered: ![observer: front, powered](observer/assets/minecraft/textures/blocks/observer_front_powered.png)
+front, powered: ![observer: front, powered](observer/assets/minecraft/textures/block/observer_front_on.png)
 
-side: ![observer: side](observer/assets/minecraft/textures/blocks/observer_side.png) ![observer: side, powered](observer/assets/minecraft/textures/blocks/observer_side_powered.png)
+side: ![observer: side](observer/assets/minecraft/textures/block/observer_side.png) ![observer: side, powered](observer/assets/minecraft/textures/block/observer_side_on.png)
 
-top: ![observer: top](observer/assets/minecraft/textures/blocks/observer_top.png) ![observer: top, powered](observer/assets/minecraft/textures/blocks/observer_top_powered.png)
+top: ![observer: top](observer/assets/minecraft/textures/block/observer_top.png) ![observer: top, powered](observer/assets/minecraft/textures/block/observer_top_on.png)
 
 ## Sticky Piston block
 
