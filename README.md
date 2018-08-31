@@ -1,4 +1,4 @@
-Additions & changes to the [Faithful](minecraft.curseforge.com/projects/faithful-32x) resource pack for Minecraft 1.13.
+Additions & changes to the [Faithful](https://minecraft.curseforge.com/projects/faithful-32x) resource pack for Minecraft 1.13.
 
 ## Observer block
 
@@ -26,7 +26,7 @@ plain | black | white | purple
 ## Hopper direction
 
 The inside of a hopper indicates the direction of its output. E.g. a hopper pointed upward: 
-![hopper (pointed forward), inside](hopper-direction/assets/minecraft/textures/blocks/hopper_inside_side.png "hopper, pointed forward, inside")
+![hopper (pointed forward), inside](hopper-direction/assets/minecraft/textures/block/hopper_inside_side.png "hopper, pointed forward, inside")
 
 <p><a href="hopper-direction/screenshot.png" target="_blank"><img src="hopper-direction/screenshot.200px.png" alt="screenshot: all directions" title="screenshot: all directions"></a></p>
 
