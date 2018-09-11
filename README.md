@@ -41,3 +41,12 @@ Redstone lines are labeled with their current strength:
 ## ![](rainbow-xp/iteration.gif) Rainbow experience bar
 
 ![full experience bar](rainbow-xp/xp-bar.png "full experience bar")
+
+## Obvious black concrete
+
+Temporarily enable this pack to make building with black concrete and concrete powder easier to see.
+
+concrete | powder 
+---------|-------
+![concrete](black-concrete/assets/minecraft/textures/blocks/concrete_black.png) | ![powder](black-concrete/assets/minecraft/textures/blocks/concrete_powder_black.png) 
+
