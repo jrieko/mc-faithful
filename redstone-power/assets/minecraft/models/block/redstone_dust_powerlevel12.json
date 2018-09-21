@@ -1,6 +1,6 @@
 {
   "parent": "block/scouter",
   "textures": {
-    "power": "blocks/powerlevelover9000"
+    "power": "block/redstone_dust_powerlevel12"
   }
 }
