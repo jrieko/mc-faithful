@@ -10,7 +10,7 @@ top: ![observer: top](observer/assets/minecraft/textures/block/observer_top.png)
 
 ## Sticky Piston block
 
-side: ![sticky piston: side](sticky-piston/assets/minecraft/textures/blocks/piston_side_sticky.png)
+side: ![sticky piston: side](sticky-piston/assets/minecraft/textures/block/piston_side_sticky.png)
 
 ## Clear glass
 
