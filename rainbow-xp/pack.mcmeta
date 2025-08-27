@@ -1,6 +1,9 @@
 {
   "pack": {
-    "pack_format": 4,
+    "pack_format": 15,
+    "supported_formats": {"min_inclusive": 15, "max_inclusive": 10000},
+    "min_format": 15,
+    "max_format": 10000,
     "description": "Order above §fFaithful x32§r.\n§6Author:§r §cjrieko"
   }
 }
